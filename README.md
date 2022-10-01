@@ -1,6 +1,6 @@
-# first-package
+# first-package (NPM)
 
-npm i first-package-testing1021
+## npm i first-package-testing1021
 
 const test = require("first-package-testing1021")
 
